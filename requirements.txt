@@ -10,6 +10,7 @@ django-cors-headers==4.9.0
 djangorestframework==3.16.1
 djangorestframework_simplejwt==5.5.1
 flatbuffers==25.9.23
+future==1.0.0
 gast==0.7.0
 google-ai-generativelanguage==0.6.15
 google-api-core==2.28.1
@@ -24,6 +25,7 @@ grpcio-status==1.71.2
 h5py==3.15.1
 httplib2==0.31.0
 idna==3.11
+iso8601==2.1.0
 keras==3.12.0
 libclang==18.1.1
 Markdown==3.10
@@ -46,9 +48,11 @@ pydantic_core==2.41.5
 Pygments==2.19.2
 PyJWT==2.10.1
 pyparsing==3.2.5
+PyYAML==6.0.3
 requests==2.32.5
 rich==14.2.0
 rsa==4.9.1
+serial==0.0.97
 setuptools==80.9.0
 six==1.17.0
 sqlparse==0.5.4
